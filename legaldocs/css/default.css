@@ -1,0 +1,17 @@
+body {
+	font-family: helvetica, arial, 'hiragino kaku gothic pro', meiryo, 'ms pgothic', sans-serif;
+	margin: 16px;
+	padding: 0px;
+}
+h1 {
+	font-size: 16pt;
+	padding: 16px 8px 16px 8px;
+}
+h2 {
+	font-size: 14pt;
+	padding: 4px 8px 4px 8px;
+}
+p {
+	font-size: 12pt;
+	padding: 4px 8px 4px 8px;
+}
